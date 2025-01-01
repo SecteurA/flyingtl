@@ -58,7 +58,7 @@ function App() {
 
       {/* WhatsApp Widget */}
       <WhatsAppWidget 
-        phoneNumber="+21263739332" 
+        phoneNumber="+212637393352" 
         ariaLabel={translations.chatOnWhatsApp}
       />
     </div>
